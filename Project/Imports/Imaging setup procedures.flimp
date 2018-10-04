@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  ConvertEquations="true"
+  LastCollectTime="2018-10-04T14:07:27.8596893-07:00"
+  ProjectName="testing_central6"
+  ProjectFolder="C:\Users\dspencer\Documents\My Projects\testing_central6\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  LastImport="2018-10-04T14:07:31.3824513-07:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/Imaging setup procedures.docx"
+      AbsoluteSource="file:///C:/Users/dspencer/Desktop/Imaging setup procedures.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Imaging setup procedures/Imaging setup procedures.jpg"
+      TimeStamp="04-Oct-18 2:07:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Imaging setup procedures/Imaging setup procedures_1.jpg"
+      TimeStamp="04-Oct-18 2:07:29 PM" />
+    <Url
+      Source="../../Content/Imaging setup procedures/Imaging setup procedures.htm"
+      TimeStamp="04-Oct-18 2:07:29 PM" />
+    <Url
+      Source="../TOCs/Imaging setup procedures.fltoc"
+      TimeStamp="04-Oct-18 2:07:29 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Imaging setup procedures.css"
+      TimeStamp="04-Oct-18 2:07:29 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="apple-converted-space" />
+    <StyleName
+      Name="il_ad" />
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>
